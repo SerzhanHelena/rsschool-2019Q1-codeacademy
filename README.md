@@ -1,1 +1,3 @@
-# rsschool-2019Q1-codeacademy
+Elena Serzhan
+
+HTML CSS Basics: https://www.codecademy.com/users/serzhanelena/achievements
